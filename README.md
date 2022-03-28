@@ -1,6 +1,6 @@
 # Welcome !!
 
-## 統計的因果推論の理論と実装 (Wonderful R) 勉強会 の記録
+## [統計的因果推論の理論と実装 (Wonderful R) 勉強会](https://www.kyoritsu-pub.co.jp/bookdetail/9784320112452) の記録
 
 
 | # | 日付 | 章 | 担当 | 資料 |
