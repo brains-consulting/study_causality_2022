@@ -5,11 +5,11 @@
 
 - 統計的因果推論の理論と実装 (Wonderful R) 勉強会 #1
     - [Chapter1](https://esa-pages.io/p/sharing/9508/posts/220/c990196817a2f926ef33.html)
-    - [Chapter2](https://bci-oshita.github.io/study_causality_2022/chapter2.html#)
+    - [Chapter2](https://brains-consulting.github.io/study_causality_2022/chapter2.html#)
 - 統計的因果推論の理論と実装 (Wonderful R) 勉強会 #2
-    - [Chapter3](https://bci-oshita.github.io/study_causality_2022/chapter03.html#)
-    - [Chapter4/標準誤差](https://bci-oshita.github.io/study_causality_2022/chapter04_1_standardError.html#)
-    - [Chapter4/信頼区間](https://bci-oshita.github.io/study_causality_2022/chapter04_2_confidenceInterval.html#)
+    - [Chapter3](https://brains-consulting.github.io/study_causality_2022/chapter03.html#)
+    - [Chapter4/標準誤差](https://brains-consulting.github.io/study_causality_2022/chapter04_1_standardError.html#)
+    - [Chapter4/信頼区間](https://brains-consulting.github.io/study_causality_2022/chapter04_2_confidenceInterval.html#)
 
 - 統計的因果推論の理論と実装 (Wonderful R) 勉強会 #3
 
