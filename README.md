@@ -14,8 +14,8 @@
 |  1 | 3/9  WED  | 2  | 大下 | [Chapter 02](https://brains-consulting.github.io/study_causality_2022/chapter2.html#) |
 |  2 | 3/25 FRI | 3  | 大隈 | [Chapter 03](https://brains-consulting.github.io/study_causality_2022/chapter03.html#) |
 |  2 | 3/25 FRI | 4  | 穂園 | [Chapter 04/標準誤差](https://brains-consulting.github.io/study_causality_2022/chapter04_1_standardError.html#) <br>  [Chapter 04/信頼区間](https://brains-consulting.github.io/study_causality_2022/chapter04_2_confidenceInterval.html#) |
-|  3 | 4/6  WED | 5  | 高木 | - |
-|  3 | 4/6  WED | 6  | 大下 | - |
+|  3 | 4/6  WED | 5  | 高木 | [Capter_05](https://esa-pages.io/p/sharing/9508/posts/241/1f444dbbaa9234c8f92b.html) |
+|  3 | 4/6  WED | 6  | 大下 | [Capter_06](https://brains-consulting.github.io/study_causality_2022/chapter06.html#) |
 |  4 | 4/20 WED | 7  | 大隈(仮) | - |
 |  4 | 4/20 WED | 8  | 穂園(仮) | - |
 |  5 | 5/4  WED | 9  | 高木(仮) | - |
