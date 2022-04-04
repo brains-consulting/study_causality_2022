@@ -1,6 +1,6 @@
 # Welcome !!
 
-## 勉強会の記録
+## [勉強会の記録](https://brains-consulting.github.io/study_causality_2022/)
 
 - 書籍：統計的因果推論の理論と実装 (Wonderful R)
     - [共立出版](https://www.kyoritsu-pub.co.jp/bookdetail/9784320112452)
