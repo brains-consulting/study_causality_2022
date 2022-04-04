@@ -7,6 +7,8 @@
     - [Amazon](https://www.amazon.co.jp/dp/4320112458)
 
 
+- 勉強会の動画は、[こちら](https://drive.google.com/drive/folders/1eogdcBTE_jiV6xZGIZ8e7MQWYNQkW27t)
+
 
 | # | 日付 | 章 | 担当 | 資料 |
 | --- | - | --- | --- | --- |
