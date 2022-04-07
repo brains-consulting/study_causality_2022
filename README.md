@@ -18,20 +18,20 @@
 |  2 | 3/25 FRI | 4  | 穂園 | [Chapter 04/標準誤差](https://brains-consulting.github.io/study_causality_2022/chapter04_1_standardError.html#) <br>  [Chapter 04/信頼区間](https://brains-consulting.github.io/study_causality_2022/chapter04_2_confidenceInterval.html#) |
 |  3 | 4/6  WED | 5  | 高木 | [Chapter 05](https://esa-pages.io/p/sharing/9508/posts/241/1f444dbbaa9234c8f92b.html) |
 |  3 | 4/6  WED | 6  | 大下 | [Chapter 06](https://brains-consulting.github.io/study_causality_2022/chapter06.html#) |
-|  4 | 4/20 WED | 7  | 大隈(仮) | - |
-|  4 | 4/20 WED | 8  | 穂園(仮) | - |
-|  5 | 5/4  WED | 9  | 高木(仮) | - |
-|  5 | 5/4  WED | 10 | 大下(仮) | - |
-|  6 | 5/18 WED | 11 | 大隈(仮) | - |
-|  6 | 5/18 WED | 12 | 穂園(仮) | - |
-|  7 | 6/1  WED | 13 | 高木(仮) | - |
-|  7 | 6/1  WED | 14 | 大下(仮) | - |
-|  8 | 6/15 WED | 15 | 大隈(仮) | - |
-|  8 | 6/15 WED | 16 | 穂園(仮) | - |
-|  9 | 6/29 WED | 17 | 高木(仮) | - |
-|  9 | 6/29 WED | 18 | 大下(仮) | - |
-| 10 | 7/13 WED | 19 | 大隈(仮) | - |
-| 10 | 7/13 WED | 20 | 穂園(仮) | - |
-| 11 | 7/27 WED | 21 | 高木(仮) | - |
+|  4 | 4/20 WED | 7  | 大隈 | - |
+|  4 | 4/20 WED | 8  | 高木 | - |
+|  5 | 5/4  WED | 9  | 大下(仮) | - |
+|  5 | 5/4  WED | 10 | 大隈(仮) | - |
+|  6 | 5/18 WED | 11 | 穂園(仮) | - |
+|  6 | 5/18 WED | 12 | 高木(仮) | - |
+|  7 | 6/1  WED | 13 | 大下(仮) | - |
+|  7 | 6/1  WED | 14 | 大隈(仮) | - |
+|  8 | 6/15 WED | 15 | 穂園(仮) | - |
+|  8 | 6/15 WED | 16 | 高木(仮) | - |
+|  9 | 6/29 WED | 17 | 大下(仮) | - |
+|  9 | 6/29 WED | 18 | 大隈(仮) | - |
+| 10 | 7/13 WED | 19 | 穂園(仮) | - |
+| 10 | 7/13 WED | 20 | 高木(仮) | - |
+| 11 | 7/27 WED | 21 | 大下(仮) | - |
 
 
