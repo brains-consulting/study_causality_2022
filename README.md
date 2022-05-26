@@ -22,7 +22,7 @@
 |  4 | 4/20 WED | 8  | 高木 | [Chapter 08](https://esa-pages.io/p/sharing/9508/posts/250/3b0e1d9b550d9a096447.html) |
 |  5 | 5/11 WED | 9  | 大下 | [Chapter 09](https://brains-consulting.github.io/study_causality_2022/chapter09.html#) |
 |  5 | 5/11 WED | 10 | naitoh | (10.3 まで実施) |
-|  6 | 5/25 WED | 10 | naitoh | [Chapter 10](https://brains-consulting.github.io/study_causality_2022/chapter10.html#) |
+|  6 | 5/25 WED | 10 | naitoh | [Chapter 10](https://brains-consulting.github.io/study_causality_2022/chapter10.pdf#) |
 |  6 | 5/25 WED | 11 | 大隈 | (11.9 まで実施) |
 |  7 | 6/8  WED | 11 | 大隈 | [Chapter 11](https://brains-consulting.github.io/study_causality_2022/chapter11.html#) |
 |  7 | 6/8  WED | 12 | 高木(仮) | - |
